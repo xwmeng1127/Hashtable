@@ -31,4 +31,5 @@
       1. 功能：再次插入相同key时会更新上一次的value
       2. 特点：集成到insert函数中(在寻找空闲位置的冲突链中比较是否存在key)
 4. resiezing
-   1. 
+   1. 功能：当load<0.1时down、当load>0.7时up
+   2. 
